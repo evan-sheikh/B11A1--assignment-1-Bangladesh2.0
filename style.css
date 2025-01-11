@@ -2,6 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #F1F1F3;
 }
 
 .container {
@@ -16,7 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 15px 0;
-    background-color: #fff;
+   
     border-bottom: 1px solid #ddd;
 }
 
@@ -92,7 +93,7 @@ body {
 /* Vision Section Styles */
 .vision-section {
     margin-top: 40px;
-    text-align: center;
+    text-align: start;
   }
   
   .vision-section h2 {
@@ -192,7 +193,7 @@ body {
   .quote-section {
     margin-top: 40px;
     padding: 20px;
-    background-color: #f9f9f9;
+
     border-radius: 16px;
     font-size: 18px;
     color: #555;
@@ -215,9 +216,9 @@ body {
   /* Pillars Section Styles */
 .pillars-section {
     margin: 40px auto;
-    text-align: center;
+    text-align: start;
     padding: 20px;
-    background-color: #f9f9f9;
+    
   }
   
   .pillars-section h2 {
@@ -240,7 +241,7 @@ body {
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    text-align: start;
     transition: transform 0.3s, box-shadow 0.3s;
   }
   
@@ -271,8 +272,8 @@ body {
 .opinion-section {
     margin: 40px auto;
     padding: 20px;
-    background-color: #f9f9f9;
-    text-align: center;
+    
+    text-align: start;
     border-radius: 8px;
   }
   
@@ -560,7 +561,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    background-color: #f9f9f9; /* Adjust this based on your site’s theme */
+    background-color: #f9f9f9; 
 }
 
 .footer-container {
@@ -580,6 +581,6 @@ body {
 }
 
 .social-icons a img {
-    width: 30px; /* Adjust size as needed */
+    width: 30px; 
     height: 30px;
 }
