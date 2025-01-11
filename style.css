@@ -5,7 +5,7 @@ body {
   }
   
   .container {
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 0 15px;
   }
@@ -60,13 +60,14 @@ body {
   .hero-content h2 {
     font-size: 24px;
     color: #006400;
-    margin-bottom: 10px;
+    
   }
   
   .hero-content p {
-    font-size: 18px;
+    font-size: 56px;
     color: #333;
     margin-bottom: 20px;
+    font-weight: 700;
   }
   
   .explore-btn {
